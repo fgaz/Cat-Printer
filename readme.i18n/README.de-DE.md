@@ -7,7 +7,7 @@
 
 ## Unterstützte Geräte
 
-Untersützt: `GB01, GB02, GB03, GT01, YT01, MX05, MX06, MX08`
+Untersützt: `GB01, GB02, GB03, GT01, YT01, MX05, MX06, MX08, MX10`
 
 ## Funktionen
 
